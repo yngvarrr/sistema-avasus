@@ -106,6 +106,11 @@ export default {
         align-items: center;
         justify-content: center;
     }
+    
+    .parceiros__flex img {
+        width: 350px;
+        height: 200px;
+    }
 
     .parceiros__flex div {
         padding: 29px;
@@ -209,6 +214,11 @@ export default {
         font-style: normal;
         align-items: center;
         justify-content: center;
+    }
+    
+    .parceiros__flex img {
+        width: 350px;
+        height: 200px;
     }
 
     .parceiros__flex div {

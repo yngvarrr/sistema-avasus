@@ -1,18 +1,18 @@
-# projeto-lais-teste
+# Sistema Avasus
 
-## Project setup
+## Para instalar as dependências do projeto:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para rodar o projeto em http://localhost:8080
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Telas:
 ```
-npm run build
+###Tela incial: 
 ```
 
 ### Customize configuration

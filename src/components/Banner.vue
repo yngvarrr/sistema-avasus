@@ -93,21 +93,5 @@ export default {
         top: 275px;
     }
 
-    /*.banner_titulo1 {
-        background-color: transparent;
-        width: 496px;
-        left: 718px;
-        top: 275px;
-        margin: 0 auto;
-    }
-
-    .banner_titulo2 {
-        background-color: transparent;
-        width: 634.67px;
-        height: 36px;
-        top: 425px;
-        margin: 0 auto;
-        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-    }*/
 }
 </style>

@@ -1,2 +1,19 @@
-# sistema-avasus
-Projeto desenvolvido para a Fase 2 - Edital 036/2022 do LAIS - Sistemas para Saúde: Perfil Front-end.
+# projeto-lais-teste
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

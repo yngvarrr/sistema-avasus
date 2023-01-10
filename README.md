@@ -9,6 +9,12 @@ npm install
 ```
 npm run serve
 ```
+## observação:
+Para uso completo das funcionalidades, é necessário antes clonar o repositório usado como back: https://github.com/lais-huol/edital-36-22-modulos-educacionais/blob/main/README.md, após clonar também é necessário instalar as depências:
+```
+npm install
+```
+E a aplicação deve rodar perfeitamente.
 
 ## Telas:
 
